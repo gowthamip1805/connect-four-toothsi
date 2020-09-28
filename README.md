@@ -1,2 +1,2 @@
-# connect-four-toothsi
+# connect-four
 Created with CodeSandbox
